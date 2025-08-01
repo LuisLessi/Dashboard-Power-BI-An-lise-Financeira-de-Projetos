@@ -35,17 +35,17 @@ Roberto gerencia cinco Gerentes subordinados, cada um responsável por equipes e
 ## 🔗 Apresentação
 
 ### Visão Geral
-![Dashboard Completo](https://lh6.googleusercontent.com/fPWcrn4-Illv3BKxhJZUhIAUEkVxiWOcEO7bACy-c2OPpsiCue655ts07zYq1NxMnAqukLhlAIl6Qv1VP13CIrjsyRGDfBXgDLqBNJH5Y9afs6sW9gDNAfHeWUjXaHTTMiumVH_rwNV6M8gsHlXjmuUi9LHX9WnXn3Nuq89R6KyHyAhfHCAr1g=w1280)
+![Dashboard Completo](assets/geral.jpg)
 *(Resumo financeiro com faturamento ($17,60 mil), custos ($15,86 mil) e margem (5%). Inclui rentabilidade por cidade e status de projetos. 
 )*  
 
 ### Análise por Gerente
-![Dashboard - Análise por Gerente](https://lh4.googleusercontent.com/JQMED3q548rgT2o9psMAO3nvt1jisebsqT5LA6584pNsDudEikhtBg8hz3etIVzw-3BRN0wl3D1NyMowybCs_SdmUq9wZGFUPoR3A7ChNbKotlyPABLqL7x8q87EOwXqcZmeAislLrlWDSdjVnEaCNw9frBoMCsJud2yY321GvTWZyPO3krG9A=w1280)  
+![Dashboard - Análise por Gerente](assets/Gerente.jpg)  
 *(Desempenho dos gerentes por projeto, com médias de atraso (ex: São Paulo, 1084 dias) e dados de faturamento/custo por equipe.
 )*  
 
 ### Atrasos e Prazos
-![Dashboard - Atrasos e Prazos](https://lh3.googleusercontent.com/BIffKNUQ0N5sva5A5leUMbGhTNnEBl_Rzp268xaLEhRNvokpWUG_z27SBDbQ618Pnlw2oQO_7B_JwuCXplzrfPQbUqphr-nudHtjgE-gXmfQbCcHNrXIxAn0f0rKfv0HlsjRFjkwulcR9AGr7-S2xnoNcwNGwCFHxcMikCuZS1gEZKve1tCmTg=w1280)
+![Dashboard - Atrasos e Prazos](assets/Prazos.jpg)
 *(Foco em 45 projetos atrasados, totalizando 46.876 dias. Destaque para cidades críticas como Porto Alegre (1317 dias) e São Paulo (1301 dias).
 )*
 
